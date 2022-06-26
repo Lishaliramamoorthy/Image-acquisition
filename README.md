@@ -1,8 +1,7 @@
-# Image-Acquisition-from-Web-Camera
-## Aim
-
-Aim:
-
+## EX NO:02
+## DATE:7.4.22
+# <p align="center">Image-Acquisition-from-Web-Camera
+## Aim:
 To write a python program using OpenCV to capture the image from the web camera and do the following image manipulations.
 i) Write the frame as JPG 
 ii) Display the video 
@@ -29,8 +28,8 @@ Rotate the image using cv2.rotate(smaller_frame,cv2.cv2.ROTATE_180)
 
 ## Program:
 ``` Python
-### Developed By: Lishaa
-### Register No: 212220230028
+ Developed By: Lishali R
+ Register No: 212220230028
 ## i) Write the frame as JPG file
 import cv2
 videoCaptureObject = cv2.VideoCapture(0)
